@@ -1,0 +1,14 @@
+transformers
+huggingface_hub
+torch
+gtts
+soundfile
+pexels_api
+opencv-python
+moviepy
+pytube
+pydub
+PyQt5
+requests
+whisper
+google-api-python-client
